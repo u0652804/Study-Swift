@@ -2,11 +2,13 @@
 
 ### Create First app and use Xcode
  
+ - prepare a macbook 
+ 
  - Create your apple ID : https://appleid.apple.com/account
  
  - download xCode (IDE) : https://developer.apple.com/xcode/
  
- - Ref about hello world : https://www.appcoda.com.tw/learnswift/build-your-first-app.html
+ - hello world with playGround : https://www.appcoda.com/learnswift/playgrounds.html
 
  - Create First App : https://blog.ichih.com/2017/05/swift-tutorial-your-first-ios-app.html
  
